@@ -6,11 +6,11 @@
 /_/ /_/_/ /_/ /_/\___/   \____/\/  /_/ /_/_//____/\____/   
                                                            
 ``` 
-                                                           
-
-于Github重建HiSU
+### 于Github重建HiSU
 
 现缓慢更新中...
+
+---
 
 字符画网站：https://patorjk.com/software/taag/#p=display&f=Slant&t=Type%20Something%20
 
